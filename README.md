@@ -1,8 +1,8 @@
 # INTRO 
 <br>
-  --> HELLO Myself Suraj Choudhary..<br>
-  --> I come fromthe city of Surat,Gujarat.<br> 
-  --> I am currenty pursuing my B.Tech in MECHANICAL Engineering.<br>  
+  --> HELLO Myself Suraj Choudhary..   
+  --> I come fromthe city of Surat,Gujarat.    
+  --> I am currenty pursuing my B.Tech in MECHANICAL Engineering.  
   
 # SKILLS  
   I have various types of skills in differents fields such as  
@@ -12,8 +12,8 @@
   
 # HOBBIES  
   
-  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpicjF1dGdtNmd6ZXpleDJvc3Y1OTByYm1kMzJjZmZqNzZ1ZHJzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RGjTCVnCgnFu2rTemJ/giphy.gif  
+  ![HOBBIES](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpicjF1dGdtNmd6ZXpleDJvc3Y1OTByYm1kMzJjZmZqNzZ1ZHJzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RGjTCVnCgnFu2rTemJ/giphy.gif)  
     
-  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN3bHJibWVhdTR3NHJpOWZpbjRlZ2Q4bmd0OTJ0NWZkZzh5bGxydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Voc0ufgfBlI0MBEyH/giphy.gif  
+  ![HOBBIES](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN3bHJibWVhdTR3NHJpOWZpbjRlZ2Q4bmd0OTJ0NWZkZzh5bGxydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Voc0ufgfBlI0MBEyH/giphy.gif)    
     
 

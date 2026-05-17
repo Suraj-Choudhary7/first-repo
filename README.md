@@ -1,8 +1,8 @@
 # INTRO 
 <br>
-  --> HELLO Myself Suraj Choudhary..  
-  --> I come fromthe city of Surat,Gujarat.  
-  --> I am currenty pursuing my B.Tech in MECHANICAL Engineering.  
+  --> HELLO Myself Suraj Choudhary..<br>
+  --> I come fromthe city of Surat,Gujarat.<br> 
+  --> I am currenty pursuing my B.Tech in MECHANICAL Engineering.<br>  
   
 # SKILLS  
   I have various types of skills in differents fields such as  

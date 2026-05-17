@@ -1,7 +1,7 @@
 # INTRO 
 <br>
   --> HELLO Myself Suraj Choudhary..<br>   
-  --> I come fromthe city of Surat,Gujarat.<br>    
+  --> I come from the city of Surat,Gujarat.<br>    
   --> I am currenty pursuing my B.Tech in MECHANICAL Engineering.<br>  
   
 # SKILLS  
@@ -16,4 +16,8 @@
     
   ![HOBBIES](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN3bHJibWVhdTR3NHJpOWZpbjRlZ2Q4bmd0OTJ0NWZkZzh5bGxydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Voc0ufgfBlI0MBEyH/giphy.gif)    
     
+# Expectation from IvLabs
+  1) to learn more about real world robotics.  
+  2) getting handon experience of most of things.  
 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF4anVrcmdxdnoxaGh0cm1hOHRhc2w4bDR5a3VoanRkMzcyNzd3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a3IWyhkEC0p32/giphy.gif)
